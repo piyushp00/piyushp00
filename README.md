@@ -1,9 +1,9 @@
-## Hi there, I'm Piyush👋
+## <h1 align="center">Hi 👋, I'm Piyush Pandey</h1>
 <img src="https://i.imgur.com/TQHkirh.gif" align="center"/>
 
 
 
-<h1 align="center">Hi 👋, I'm Piyush Pandey</h1>
+
 <h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://piyushp00.netlify.app/):sparkles:
