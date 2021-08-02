@@ -27,13 +27,13 @@
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1IJ4MTlci7JJ5gxXeNfLS2d0QTOm7uLtS/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[Pathfinder](https://github.com/piyushp00/Pathfinder)</code>:robot:
+<code>[Pathfinder](https://github.com/piyushp00/Pathfinder)</code>:dizzy:
 
-<code>[Sorting Visualizer](https://github.com/piyushp00/Sorting-Visualizer)</code>:hourglass:     
+<code>[Sorting Visualizer](https://github.com/piyushp00/Sorting-Visualizer)</code>:robot:     
 
-<code>[Ghost.](https://github.com/piyushp00/ghost.)</code>:robot:
+<code>[Ghost.](https://github.com/piyushp00/ghost.)</code>:ghost:
 
-<code>[React-iPod](https://github.com/piyushp00/React-ipod)</code>:robot:     
+<code>[React-iPod](https://github.com/piyushp00/React-ipod)</code>:iphone:    
 
 
 
