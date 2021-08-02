@@ -18,7 +18,7 @@
 
 - 👨‍💻 All about me is available at [My Website](https://piyushp00.netlify.app/)
 
-- 📝 I also share content on Twitter [Twitter](https://twitter.com/piyushp00)
+- 📝 I also share tech content on Twitter [Twitter](https://twitter.com/piyushp00)
 
 - 💬 Ask me about **C++, Python, Web Development, React, MERN**
 
