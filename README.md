@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Piyush Pandey</h1>
-<div style="display: flex; justify-content: center; border-radius: 20px; margin:10px auto;"><img src="https://i.imgur.com/TQHkirh.gif" align="center" style="border-radius: 10px;" /></div>
+<div style="display: flex; border-radius: 10px; margin:10px auto;"><img src="https://i.imgur.com/TQHkirh.gif" align="center" style="border-radius: 10px;" /></div>
 
 
 
