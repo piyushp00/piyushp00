@@ -6,7 +6,7 @@
 
 <h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://piyushp00.netlify.app/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://piyushp00.netlify.app/):sparkles: Not updated
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushp00&label=Profile%20views&color=0e75b6&style=flat" alt="piyushp00" /> </p>
 
